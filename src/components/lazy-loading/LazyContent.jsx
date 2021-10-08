@@ -13,7 +13,7 @@ const LazyContent = () => {
         data?.map((dt) => (
             <>
             <h1>{dt.title}</h1>
-            <h1>{dt.id}</h1>
+
             </ >
         ))
         
